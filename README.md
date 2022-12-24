@@ -7,7 +7,7 @@ __A little bit about me:__
 
 - 🌱 I love challenging myself to learn complex topics
 - 🦀 I’m currently learning Rust
-- 🎓 I am on the way to York University for Information Technology
+- 🎓 I am studying Information Technology at York University
 - ⚡ Fun fact: I like to make electronic music in my spare time
 - 😄 My pronouns are: he, him, his
 
